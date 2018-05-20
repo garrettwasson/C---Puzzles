@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.pdb
